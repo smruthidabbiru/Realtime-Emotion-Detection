@@ -1,10 +1,3 @@
-## Overview
-Realtime Emotion Detection Using Keras
-https://youtu.be/DtBu1u5aBsc
-
-## Youtube Tutorial
-https://youtu.be/DtBu1u5aBsc
-
 
 Program is trained for 30 epochs and runs at 66% accuracy.
 
@@ -21,9 +14,3 @@ Download haarcascades file from here=> https://github.com/opencv/opencv/blob/mas
 ### Usage:
 First Run Emotion_recognition.py => python Emotion_recognition.py</br>
 Then run vidotester.py
-
-### Acknowledgements:
-* http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
-* https://medium.com/@jsflo.dev/training-a-tensorflow-model-to-recognize-emotions-a20c3bcd6468
-
-
